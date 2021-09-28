@@ -1,0 +1,79 @@
+
+
+body {
+ font-family: "Open Sans";
+}
+
+.h2, h2 {
+    font-size: 30px;
+    font-family: Open SANS-SERIF;
+    text-align: center;
+    color: gray;
+}
+
+.carousel .item {
+    width: 800px;
+    height: 600px; 
+    margin-left: 250px;
+}
+.carousel .item img {
+    width: 100%; 
+}
+
+.texto-principal{
+  padding-bottom: 50px;
+}
+
+.page-footer{
+  background-color: #e9e9e9;
+}
+
+.btn{
+  color: white;
+  background-color:#4d4d4d; 
+  width: 400px;
+  height: 60px;
+  font-family: white;
+  font-size: 20px;
+}
+
+
+.endereco{
+  background-color: #d3d3d3;
+  padding-top: 10px;
+}
+
+.contatos{
+  background-color: #515151;
+  padding-top: 30px;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.carousel-inner{
+  padding-top: 200px;
+}
+
+.form{
+  background-color: white;
+}
+
+.holambra{
+  font-size: 70px;
+  color:#515151;
+  padding-top: -1000px;
+  position: absolute;
+  top: 145px;
+  left: 90px;
+  right: 90px;
+}
+
+.lancamento{
+  font-size: 50px;
+  color:#515151;
+  position: absolute;
+  padding-top: -1000px;
+  top: 240px;
+  left: 90px;
+  right: 90px;
+}
